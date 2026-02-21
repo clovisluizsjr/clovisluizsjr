@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Clovis Luiz
 
-<!--
-**clovisluizsjr/clovisluizsjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Presidente Prudente — SP  
+📧 clovisluizsjr@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/clovisluiz/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e Linguagens
+
+### Linguagens de Programação
+- JavaScript  
+- TypeScript  
+- Python  
+- SQL  
+
+### Front-end
+- HTML5, CSS3  
+- React.js  
+- Bootstrap  
+
+### Back-end
+- Node.js  
+- APIs RESTful  
+- JWT, MVC  
+
+### Banco de Dados
+- MySQL  
+- Modelagem de Dados (MER, SQL)  
+
+### Outros Conhecimentos
+- Noções de IA e Chatbots (PLN, Webhooks)  
+- Documentação de APIs com Swagger  
+- Metodologias Ágeis (Scrum, Kanban) 
